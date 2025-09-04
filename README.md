@@ -76,14 +76,3 @@ plotly
   - Interactive folium overlays of classified rasters.
 
 ---
-
-## 🗺️ Color Palette (suggested)
-
-| class id | label       | color (hex) |
-|---------:|-------------|-------------|
-| 0        | forest      | #2E8B57 |
-| 1        | open land   | #F0E68C |
-| 2        | buildings   | #B22222 |
-| 3        | road        | #696969 |
-
----

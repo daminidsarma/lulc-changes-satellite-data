@@ -1,4 +1,4 @@
-# Analyzing LULC Changes in IIT Kanpur Over 10 Years (2015–2024)
+# Analyzing LULC Changes in IIT Kanpur Over 10 Years
 
 End‑to‑end workflow (Google Earth Engine + Python) to map **Land Use/Land Cover (LULC)** for the **IIT Kanpur** campus and quantify **decadal changes**. The pipeline builds annual composites, classifies LULC, computes per‑class areas/percentages, and generates change matrices and maps.
 
@@ -8,7 +8,7 @@ End‑to‑end workflow (Google Earth Engine + Python) to map **Land Use/Land Co
 
 ## ✨ Objectives
 
-- Produce **annual LULC maps** for ~10 years (2015–2024) over IITK.
+- Produce **annual LULC maps** for ~10 years over IITK.
 - Classes (numeric labels): **0 = forest**, **1 = open land**, **2 = buildings**, **3 = road**.
 - Compute **area & % coverage** per class per year.
 - Derive **change detection** (transition matrix and “from→to” maps).
